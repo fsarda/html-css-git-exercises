@@ -1,0 +1,4 @@
+- Hicimos Fork
+- Clonamos el repositorio
+- abrimos el editor con la carpeta del repo
+- Hicimos uno o más cambios
