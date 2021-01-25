@@ -1,0 +1,17 @@
+cambios
+cambio
+
+Comando	Uso
+git init	Iniciar repositorio local
+git clone	Copiar repositorio remoto en local
+git remote	Gestionar conexión remota del repositorio local
+git checkout + rama	Cambiar de rama en el repositorio
+git checkout -b + rama	Crear nueva rama en el repositorio
+git stash	Almacenar cambios
+git stash apply	Recuperar cambios en stash
+git stash drop	Descartar stash
+git add	Agregar cambios locales para próximo commit
+git commit + mensaje	Registrar cambios en local
+git pull	Actualizar repositorio local con los cambios en el repositorio central/remoto
+git push	Agregar commit locales al repositorio remoto
+git merge	Mergear actual rama en rama de destino

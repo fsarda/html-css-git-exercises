@@ -2,3 +2,8 @@
 - Clonamos el repositorio
 - abrimos el editor con la carpeta del repo
 - Hicimos uno o más cambios
+
+
+Verificamos el status  con: git status
+Agregamos archivos (hacemos stage) con: git add [nombre archivo]
+Revertimos cambios (hacemos unstage) con: git checkout [nombre archivo]
